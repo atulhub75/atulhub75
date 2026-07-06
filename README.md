@@ -1,10 +1,10 @@
 ### 👋 About Me
 
 - 💼 **Role:** SDET
-- 📅 **Experience:** 10+ years
+- 📅 **Experience:** 4+ years
 - 🚀 **Currently working on:** Telecom Billing Project
 - 🌱 **Currently learning:** AI Agents, LLM, AI-ML
-- 💬 **Ask me about:** Test Automation, Playwright, Selenium, QA Ops
+- 💬 **Ask me about:** Test Automation, Playwright, Selenium, API
 - 🎓 **Certifications:** ISTQB
 - ⚡ **Fun fact:** I love debugging
 - 📫 **Reach me:** atulmargil777@gmail.com
